@@ -2,13 +2,12 @@
 
 This repository documents my learning journey in data analysis using Python. It is structured into three parts — Basic, Advanced, and Project — with the goal of building strong data wrangling and visualization skills.
 
-## 📌 Objectives
+## Objectives
 
 - Learn how to clean, manipulate, and analyze data using Python.
 - Get hands-on experience with essential libraries: `pandas`, `numpy`, `matplotlib`, and `seaborn`.
 - Understand the fundamentals of working with real-world datasets.
 
----
 
 ## Repository Structure
 
@@ -24,7 +23,6 @@ This repository documents my learning journey in data analysis using Python. It 
    - Final analysis of 2023 data science job postings using the skills learned.
    - Focused on uncovering trends, skill demands, and insights through visualizations.
 
----
 
 ## Tools and Libraries
 
